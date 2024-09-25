@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ENIGMA", "ENIGMA\ENIGMA.csproj", "{13879A3A-58EF-4308-8E88-8CA78F821580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTROPY_COMPESSRION", "ENTROPY_COMPESSION_ALGORITHMS\ENTROPY_COMPESSRION.csproj", "{F43E3C9E-499A-4764-B2DD-45FC0FA0897D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TITANIC", "TITANIC_KINDA_ML\TITANIC.csproj", "{BE8FA1DC-34B3-4BA9-9360-BD48E4335246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13879A3A-58EF-4308-8E88-8CA78F821580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13879A3A-58EF-4308-8E88-8CA78F821580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13879A3A-58EF-4308-8E88-8CA78F821580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13879A3A-58EF-4308-8E88-8CA78F821580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43E3C9E-499A-4764-B2DD-45FC0FA0897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43E3C9E-499A-4764-B2DD-45FC0FA0897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43E3C9E-499A-4764-B2DD-45FC0FA0897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43E3C9E-499A-4764-B2DD-45FC0FA0897D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8FA1DC-34B3-4BA9-9360-BD48E4335246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8FA1DC-34B3-4BA9-9360-BD48E4335246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8FA1DC-34B3-4BA9-9360-BD48E4335246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8FA1DC-34B3-4BA9-9360-BD48E4335246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C46C95-F478-4274-80D3-0372CF65A434}
+	EndGlobalSection
+EndGlobal
